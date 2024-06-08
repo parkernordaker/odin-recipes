@@ -1,0 +1,3 @@
+Starting a Doing Foundations Projec, currently I have learned headings, titles, bodys, paragraphs, how to setup links
+and images, also I know roughly how to bold and italicize things. Aswell as create different sized headings. 
+I also want to figure out how to get this README.md file to show up on my repository on github. Atleast beffore moving with the project, I would want this to show up on github but I don't know if that is what I am suppsoed to do yet. 
