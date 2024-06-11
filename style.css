@@ -1,0 +1,33 @@
+/* style.css */
+/* for the mainpage */
+div{
+    background-color: red;
+    color: black;
+ }
+
+/*for mac n cheese & for lasagna */
+
+.headings{
+   color:brown;
+}
+.adjust-font-size{
+   font-size:34px;
+}
+.background{
+background-color:black;
+}
+.color{
+   color:yellow;
+   font-family: "Monospace", "Lucida Console";
+}
+/* for blt */
+.background-2{
+   background-color:tan;
+}
+
+.font-size{
+   font-size:34px;
+}
+.font-family{
+   font-family:'Courier New', Courier, monospace
+}
