@@ -1,33 +1,18 @@
 /* style.css */
-/* for the mainpage */
-div{
-    background-color: red;
+.index-one {
+    padding:8px;
+    margin:4px;
+    border-color:red ;
+    background-color:rgb(31, 98, 121);
+}
+.index-two{
+color:white;
+}
+.body{
+    background-color:lightblue;
+    color:white;
+    padding-bottom:800px;
+}
+.title {
     color: black;
- }
-
-/*for mac n cheese & for lasagna */
-
-.headings{
-   color:brown;
-}
-.adjust-font-size{
-   font-size:34px;
-}
-.background{
-background-color:black;
-}
-.color{
-   color:yellow;
-   font-family: "Monospace", "Lucida Console";
-}
-/* for blt */
-.background-2{
-   background-color:tan;
-}
-
-.font-size{
-   font-size:34px;
-}
-.font-family{
-   font-family:'Courier New', Courier, monospace
 }
